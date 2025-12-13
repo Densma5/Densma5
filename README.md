@@ -1,5 +1,5 @@
 # Hi, I'm Dennys! 👋
-👨🏽‍🎓 Graduated with a Bachelor’s in Computer Systems Engineering from Universidad Fidélitas, Costa Rica. <br/>
+👨🏽‍🎓 Graduated with a Bachelor’s in Computer Systems Engineering.<br/>
 📖 Currently pursuing a Licentiate degree in Computer Systems Engineering.<br/>
 ## 💻 Tech Stack:
 
@@ -39,12 +39,3 @@
 
 ### Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Embedded Systems / Microcontrollers
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-
-### Operating Systems
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-<!-- ;) Proudly created with GPRM ( https://gprm.itsvg.in ) -->
