@@ -1,6 +1,5 @@
 # Hi, I'm Dennys! 👋
 👨🏽‍🎓 Graduated with a Bachelor’s in Computer Systems Engineering.<br/>
-📖 Currently pursuing a Licentiate degree in Computer Systems Engineering.<br/>
 ## 💻 Tech Stack:
 
 ### Languages
