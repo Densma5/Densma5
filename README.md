@@ -1,5 +1,4 @@
 # Hi, I'm Dennys! 👋
-Graduated with a Bachelor’s in Computer Systems Engineering.<br/>
 ## Tech Stack:
 
 ### Languages
