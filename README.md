@@ -1,4 +1,4 @@
-# Hi, I'm Dennys! 👋
+# Hi, I'm Dennys! 
 ## Tech Stack:
 
 ### Languages
