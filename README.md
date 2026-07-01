@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a full stack dev<br>🛠️ I’m looking to collaborate on data projects<br>🌱 I’m currently learning data analytics <br>
+🔭 I’m currently working on web projects<br>🛠️ I’m looking to collaborate on data projects<br>🌱 I’m currently learning data analytics <br>
 
 
 # 💻 Tech Stack:
