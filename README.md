@@ -8,8 +8,6 @@
 
 ### Systems Engineer • Web Developer • Data Analyst
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=9900FF&center=true&vCenter=true&width=700&lines=Systems+Engineer;Web+Developer;Data+Analyst;Learning+Data+Engineering" alt="Typing SVG" />
-
 </div>
 
 ---
@@ -18,9 +16,8 @@
 <!--        ABOUT ME           -->
 <!-- ========================= -->
 
-## 🟣 About Me
+##  About Me
 
-I'm a **Systems Engineer** focused on building practical technology solutions and working with data.
 
 -  Working on **Web Development**
 -  Working with **Data Analytics**
@@ -96,17 +93,5 @@ I'm a **Systems Engineer** focused on building practical technology solutions an
   height="170"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Densma5&layout=compact&hide_border=true&bg_color=0D1117&title_color=9900FF&text_color=F0F6FC"
 />
-
-</div>
-
----
-
-<!-- ========================= -->
-<!--          FOOTER           -->
-<!-- ========================= -->
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Densma5&color=9900FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
