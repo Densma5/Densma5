@@ -12,7 +12,7 @@ from pathlib import Path
 USERNAME = os.environ.get("GITHUB_USERNAME", "Densma5")
 TOKEN = os.environ["GH_TOKEN"]
 
-START_YEAR = 2022
+START_YEAR = 2023
 CURRENT_YEAR = datetime.now(timezone.utc).year
 YEARS = list(range(START_YEAR, CURRENT_YEAR + 1))
 
@@ -287,17 +287,6 @@ svg.append(
 """
 )
 
-
-svg.append(
-    """
-<text
-    x="57"
-    y="99"
-    class="subtitle"
->
-    CODE • LEARN • BUILD • IMPROVE
-</text>
-"""
 )
 
 
@@ -547,21 +536,6 @@ for index, year in enumerate(YEARS):
 # =========================================================
 
 footer_y = 375
-
-
-svg.append(
-    f"""
-<line
-    x1="{WIDTH - 490}"
-    y1="{footer_y}"
-    x2="{WIDTH - 430}"
-    y2="{footer_y}"
-    stroke="{PURPLE}"
-    stroke-width="3"
-/>
-"""
-)
-
 
 svg.append(
     f"""
