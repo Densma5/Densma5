@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Dennys
+#  Hi, I'm Dennys
 
 ### Systems Engineer • Web Developer • Data Analyst
 
@@ -72,7 +72,7 @@
 <!--       GITHUB STATS        -->
 <!-- ========================= -->
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
