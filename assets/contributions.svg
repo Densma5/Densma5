@@ -119,20 +119,11 @@ text {
 
 
 <text
-    x="57"
-    y="99"
-    class="subtitle"
->
-    CODE • LEARN • BUILD • IMPROVE
-</text>
-
-
-<text
     x="560"
     y="67"
     class="main-number"
 >
-    597
+    600
 </text>
 
 
@@ -159,7 +150,7 @@ text {
     y="67"
     class="purple-number"
 >
-    344
+    347
 </text>
 
 
@@ -236,66 +227,7 @@ text {
 
 
 <text
-    x="184.0"
-    y="205"
-    text-anchor="middle"
-    class="year"
->
-    2022
-</text>
-
-
-<text
-    x="184.0"
-    y="248"
-    text-anchor="middle"
-    class="year-number"
->
-    0
-</text>
-
-
-<text
-    x="184.0"
-    y="275"
-    text-anchor="middle"
-    class="year-label"
->
-    contributions
-</text>
-
-
-<rect
-    x="82.5"
-    y="302"
-    width="203.0"
-    height="7"
-    rx="4"
-    fill="#30363D"
-/>
-
-
-<rect
-    x="82.5"
-    y="302"
-    width="0.0"
-    height="7"
-    rx="4"
-    fill="url(#purpleGradient)"
-/>
-
-
-<line
-    x1="313.0"
-    y1="185"
-    x2="313.0"
-    y2="320"
-    stroke="#30363D"
-/>
-
-
-<text
-    x="442.0"
+    x="216.25"
     y="205"
     text-anchor="middle"
     class="year"
@@ -305,7 +237,7 @@ text {
 
 
 <text
-    x="442.0"
+    x="216.25"
     y="248"
     text-anchor="middle"
     class="year-number"
@@ -315,7 +247,7 @@ text {
 
 
 <text
-    x="442.0"
+    x="216.25"
     y="275"
     text-anchor="middle"
     class="year-label"
@@ -325,9 +257,9 @@ text {
 
 
 <rect
-    x="340.5"
+    x="82.5"
     y="302"
-    width="203.0"
+    width="267.5"
     height="7"
     rx="4"
     fill="#30363D"
@@ -335,9 +267,9 @@ text {
 
 
 <rect
-    x="340.5"
+    x="82.5"
     y="302"
-    width="8.261627906976745"
+    width="10.792507204610951"
     height="7"
     rx="4"
     fill="url(#purpleGradient)"
@@ -345,16 +277,16 @@ text {
 
 
 <line
-    x1="571.0"
+    x1="377.5"
     y1="185"
-    x2="571.0"
+    x2="377.5"
     y2="320"
     stroke="#30363D"
 />
 
 
 <text
-    x="700.0"
+    x="538.75"
     y="205"
     text-anchor="middle"
     class="year"
@@ -364,7 +296,7 @@ text {
 
 
 <text
-    x="700.0"
+    x="538.75"
     y="248"
     text-anchor="middle"
     class="year-number"
@@ -374,7 +306,7 @@ text {
 
 
 <text
-    x="700.0"
+    x="538.75"
     y="275"
     text-anchor="middle"
     class="year-label"
@@ -384,9 +316,9 @@ text {
 
 
 <rect
-    x="598.5"
+    x="405.0"
     y="302"
-    width="203.0"
+    width="267.5"
     height="7"
     rx="4"
     fill="#30363D"
@@ -394,9 +326,9 @@ text {
 
 
 <rect
-    x="598.5"
+    x="405.0"
     y="302"
-    width="83.2063953488372"
+    width="108.69596541786744"
     height="7"
     rx="4"
     fill="url(#purpleGradient)"
@@ -404,16 +336,16 @@ text {
 
 
 <line
-    x1="829.0"
+    x1="700.0"
     y1="185"
-    x2="829.0"
+    x2="700.0"
     y2="320"
     stroke="#30363D"
 />
 
 
 <text
-    x="958.0"
+    x="861.25"
     y="205"
     text-anchor="middle"
     class="year"
@@ -423,7 +355,7 @@ text {
 
 
 <text
-    x="958.0"
+    x="861.25"
     y="248"
     text-anchor="middle"
     class="year-number"
@@ -433,7 +365,7 @@ text {
 
 
 <text
-    x="958.0"
+    x="861.25"
     y="275"
     text-anchor="middle"
     class="year-label"
@@ -443,9 +375,9 @@ text {
 
 
 <rect
-    x="856.5"
+    x="727.5"
     y="302"
-    width="203.0"
+    width="267.5"
     height="7"
     rx="4"
     fill="#30363D"
@@ -453,9 +385,9 @@ text {
 
 
 <rect
-    x="856.5"
+    x="727.5"
     y="302"
-    width="57.83139534883721"
+    width="75.54755043227667"
     height="7"
     rx="4"
     fill="url(#purpleGradient)"
@@ -463,16 +395,16 @@ text {
 
 
 <line
-    x1="1087.0"
+    x1="1022.5"
     y1="185"
-    x2="1087.0"
+    x2="1022.5"
     y2="320"
     stroke="#30363D"
 />
 
 
 <text
-    x="1216.0"
+    x="1183.75"
     y="205"
     text-anchor="middle"
     class="year"
@@ -482,17 +414,17 @@ text {
 
 
 <text
-    x="1216.0"
+    x="1183.75"
     y="248"
     text-anchor="middle"
     class="year-number"
 >
-    344
+    347
 </text>
 
 
 <text
-    x="1216.0"
+    x="1183.75"
     y="275"
     text-anchor="middle"
     class="year-label"
@@ -502,9 +434,9 @@ text {
 
 
 <rect
-    x="1114.5"
+    x="1050.0"
     y="302"
-    width="203.0"
+    width="267.5"
     height="7"
     rx="4"
     fill="#30363D"
@@ -512,22 +444,12 @@ text {
 
 
 <rect
-    x="1114.5"
+    x="1050.0"
     y="302"
-    width="203.0"
+    width="267.5"
     height="7"
     rx="4"
     fill="url(#purpleGradient)"
-/>
-
-
-<line
-    x1="910"
-    y1="375"
-    x2="970"
-    y2="375"
-    stroke="#9900FF"
-    stroke-width="3"
 />
 
 
