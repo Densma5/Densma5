@@ -4,7 +4,7 @@
 
 <div align="center">
 
-#  Hi, I'm Dennys
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1000&color=9900FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Dennys" alt="Hi, I'm Dennys" />
 
 ### Systems Engineer • Web Developer • Data Analyst
 
