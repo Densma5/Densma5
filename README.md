@@ -74,24 +74,10 @@
 
 ##  GitHub Stats
 
-<div align="center">
-
-<img
-  src="./assets/contributions.svg"
-  width="100%"
-  alt="GitHub Contribution Stats"
-/>
-
-<br><br>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=Densma5&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9900FF&icon_color=9900FF&text_color=F0F6FC"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Densma5&layout=compact&hide_border=true&bg_color=0D1117&title_color=9900FF&text_color=F0F6FC"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="./assets/contributions.svg"
+    width="100%"
+    alt="GitHub Contribution Stats"
+  />
+</p>
