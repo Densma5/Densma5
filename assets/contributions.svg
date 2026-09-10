@@ -1,0 +1,542 @@
+
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="1400"
+    height="430"
+    viewBox="0 0 1400 430">
+
+
+<style>
+
+text {
+    font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Helvetica,
+        Arial,
+        sans-serif;
+}
+
+.title {
+    fill: #F0F6FC;
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.subtitle {
+    fill: #8B949E;
+    font-size: 13px;
+    letter-spacing: 5px;
+}
+
+.main-number {
+    fill: #F0F6FC;
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.purple-number {
+    fill: #B833FF;
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.stat-label {
+    fill: #8B949E;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+
+.year {
+    fill: #F0F6FC;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.year-number {
+    fill: #B833FF;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.year-label {
+    fill: #8B949E;
+    font-size: 12px;
+}
+
+.footer {
+    fill: #8B949E;
+    font-size: 12px;
+    letter-spacing: 4px;
+}
+
+</style>
+
+
+<defs>
+    <linearGradient
+        id="purpleGradient"
+        x1="0%"
+        y1="0%"
+        x2="100%"
+        y2="0%"
+    >
+        <stop
+            offset="0%"
+            stop-color="#540080"
+        />
+        <stop
+            offset="100%"
+            stop-color="#9900FF"
+        />
+    </linearGradient>
+</defs>
+
+
+<rect
+    x="1"
+    y="1"
+    width="1398"
+    height="428"
+    rx="22"
+    fill="#0D1117"
+    stroke="#9900FF"
+    stroke-width="2"
+/>
+
+
+<text
+    x="55"
+    y="67"
+    class="title"
+>
+    GitHub
+    <tspan fill="#9900FF">
+        Contributions
+    </tspan>
+</text>
+
+
+<text
+    x="57"
+    y="99"
+    class="subtitle"
+>
+    CODE • LEARN • BUILD • IMPROVE
+</text>
+
+
+<text
+    x="560"
+    y="67"
+    class="main-number"
+>
+    597
+</text>
+
+
+<text
+    x="560"
+    y="96"
+    class="stat-label"
+>
+    TOTAL CONTRIBUTIONS
+</text>
+
+
+<line
+    x1="727"
+    y1="35"
+    x2="727"
+    y2="120"
+    stroke="#30363D"
+/>
+
+
+<text
+    x="755"
+    y="67"
+    class="purple-number"
+>
+    344
+</text>
+
+
+<text
+    x="755"
+    y="96"
+    class="stat-label"
+>
+    2026 CONTRIBUTIONS
+</text>
+
+
+<line
+    x1="922"
+    y1="35"
+    x2="922"
+    y2="120"
+    stroke="#30363D"
+/>
+
+
+<text
+    x="950"
+    y="67"
+    class="purple-number"
+>
+    2026
+</text>
+
+
+<text
+    x="950"
+    y="96"
+    class="stat-label"
+>
+    BEST YEAR
+</text>
+
+
+<line
+    x1="1117"
+    y1="35"
+    x2="1117"
+    y2="120"
+    stroke="#30363D"
+/>
+
+
+<text
+    x="1145"
+    y="67"
+    class="purple-number"
+>
+    4
+</text>
+
+
+<text
+    x="1145"
+    y="96"
+    class="stat-label"
+>
+    ACTIVE YEARS
+</text>
+
+
+<line
+    x1="55"
+    y1="150"
+    x2="1345"
+    y2="150"
+    stroke="#30363D"
+/>
+
+
+<text
+    x="184.0"
+    y="205"
+    text-anchor="middle"
+    class="year"
+>
+    2022
+</text>
+
+
+<text
+    x="184.0"
+    y="248"
+    text-anchor="middle"
+    class="year-number"
+>
+    0
+</text>
+
+
+<text
+    x="184.0"
+    y="275"
+    text-anchor="middle"
+    class="year-label"
+>
+    contributions
+</text>
+
+
+<rect
+    x="82.5"
+    y="302"
+    width="203.0"
+    height="7"
+    rx="4"
+    fill="#30363D"
+/>
+
+
+<rect
+    x="82.5"
+    y="302"
+    width="0.0"
+    height="7"
+    rx="4"
+    fill="url(#purpleGradient)"
+/>
+
+
+<line
+    x1="313.0"
+    y1="185"
+    x2="313.0"
+    y2="320"
+    stroke="#30363D"
+/>
+
+
+<text
+    x="442.0"
+    y="205"
+    text-anchor="middle"
+    class="year"
+>
+    2023
+</text>
+
+
+<text
+    x="442.0"
+    y="248"
+    text-anchor="middle"
+    class="year-number"
+>
+    14
+</text>
+
+
+<text
+    x="442.0"
+    y="275"
+    text-anchor="middle"
+    class="year-label"
+>
+    contributions
+</text>
+
+
+<rect
+    x="340.5"
+    y="302"
+    width="203.0"
+    height="7"
+    rx="4"
+    fill="#30363D"
+/>
+
+
+<rect
+    x="340.5"
+    y="302"
+    width="8.261627906976745"
+    height="7"
+    rx="4"
+    fill="url(#purpleGradient)"
+/>
+
+
+<line
+    x1="571.0"
+    y1="185"
+    x2="571.0"
+    y2="320"
+    stroke="#30363D"
+/>
+
+
+<text
+    x="700.0"
+    y="205"
+    text-anchor="middle"
+    class="year"
+>
+    2024
+</text>
+
+
+<text
+    x="700.0"
+    y="248"
+    text-anchor="middle"
+    class="year-number"
+>
+    141
+</text>
+
+
+<text
+    x="700.0"
+    y="275"
+    text-anchor="middle"
+    class="year-label"
+>
+    contributions
+</text>
+
+
+<rect
+    x="598.5"
+    y="302"
+    width="203.0"
+    height="7"
+    rx="4"
+    fill="#30363D"
+/>
+
+
+<rect
+    x="598.5"
+    y="302"
+    width="83.2063953488372"
+    height="7"
+    rx="4"
+    fill="url(#purpleGradient)"
+/>
+
+
+<line
+    x1="829.0"
+    y1="185"
+    x2="829.0"
+    y2="320"
+    stroke="#30363D"
+/>
+
+
+<text
+    x="958.0"
+    y="205"
+    text-anchor="middle"
+    class="year"
+>
+    2025
+</text>
+
+
+<text
+    x="958.0"
+    y="248"
+    text-anchor="middle"
+    class="year-number"
+>
+    98
+</text>
+
+
+<text
+    x="958.0"
+    y="275"
+    text-anchor="middle"
+    class="year-label"
+>
+    contributions
+</text>
+
+
+<rect
+    x="856.5"
+    y="302"
+    width="203.0"
+    height="7"
+    rx="4"
+    fill="#30363D"
+/>
+
+
+<rect
+    x="856.5"
+    y="302"
+    width="57.83139534883721"
+    height="7"
+    rx="4"
+    fill="url(#purpleGradient)"
+/>
+
+
+<line
+    x1="1087.0"
+    y1="185"
+    x2="1087.0"
+    y2="320"
+    stroke="#30363D"
+/>
+
+
+<text
+    x="1216.0"
+    y="205"
+    text-anchor="middle"
+    class="year"
+>
+    2026
+</text>
+
+
+<text
+    x="1216.0"
+    y="248"
+    text-anchor="middle"
+    class="year-number"
+>
+    344
+</text>
+
+
+<text
+    x="1216.0"
+    y="275"
+    text-anchor="middle"
+    class="year-label"
+>
+    contributions
+</text>
+
+
+<rect
+    x="1114.5"
+    y="302"
+    width="203.0"
+    height="7"
+    rx="4"
+    fill="#30363D"
+/>
+
+
+<rect
+    x="1114.5"
+    y="302"
+    width="203.0"
+    height="7"
+    rx="4"
+    fill="url(#purpleGradient)"
+/>
+
+
+<line
+    x1="910"
+    y1="375"
+    x2="970"
+    y2="375"
+    stroke="#9900FF"
+    stroke-width="3"
+/>
+
+
+<text
+    x="990"
+    y="380"
+    class="footer"
+>
+  
+</text>
+
+</svg>
