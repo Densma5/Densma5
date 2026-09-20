@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1000&color=9900FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Dennys" alt="Hi, I'm Dennys" />
 
-### Systems Engineer • Web Developer • Data Analyst
-
 </div>
 
 ---
@@ -75,12 +73,22 @@ const dennys = {
 <!--       GITHUB STATS        -->
 <!-- ========================= -->
 
-##  GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img
     src="./assets/contributions.svg"
     width="100%"
     alt="GitHub Contribution Stats"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Densma5&background=0D1117&border=9900FF&stroke=30363D&ring=9900FF&fire=B833FF&currStreakNum=B833FF&sideNums=B833FF&currStreakLabel=F0F6FC&sideLabels=F0F6FC&dates=8B949E&starting_year=2023&card_width=800&card_height=220&border_radius=12"
+    width="75%"
+    alt="GitHub Streak Stats"
   />
 </p>
