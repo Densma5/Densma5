@@ -75,6 +75,7 @@ const dennys = {
 
 ## GitHub Stats
 
+<!--
 <p align="center">
   <img
     src="./assets/contributions.svg"
@@ -82,6 +83,7 @@ const dennys = {
     alt="GitHub Contribution Stats"
   />
 </p>
+-->
 
 <br>
 
