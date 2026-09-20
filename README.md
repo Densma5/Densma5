@@ -16,13 +16,16 @@
 <!--        ABOUT ME           -->
 <!-- ========================= -->
 
-##  About Me
+## About Me
 
+```js
+const dennys = {
+  role: "Systems Engineer",
+  focus: "Web Development & Data Analytics",
+  learning: "Data Engineering"
+};
+```
 
--  Working on **Web Development**
--  Working with **Data Analytics**
--  Learning **Data Engineering**
-  
 ---
 
 <!-- ========================= -->
