@@ -123,7 +123,7 @@ text {
     y="67"
     class="main-number"
 >
-    605
+    608
 </text>
 
 
@@ -150,7 +150,7 @@ text {
     y="67"
     class="purple-number"
 >
-    352
+    355
 </text>
 
 
@@ -269,7 +269,7 @@ text {
 <rect
     x="82.5"
     y="302"
-    width="10.639204545454545"
+    width="10.549295774647888"
     height="7"
     rx="4"
     fill="url(#purpleGradient)"
@@ -328,7 +328,7 @@ text {
 <rect
     x="405.0"
     y="302"
-    width="107.15198863636364"
+    width="106.24647887323944"
     height="7"
     rx="4"
     fill="url(#purpleGradient)"
@@ -387,7 +387,7 @@ text {
 <rect
     x="727.5"
     y="302"
-    width="74.47443181818181"
+    width="73.84507042253522"
     height="7"
     rx="4"
     fill="url(#purpleGradient)"
@@ -419,7 +419,7 @@ text {
     text-anchor="middle"
     class="year-number"
 >
-    352
+    355
 </text>
 
 
